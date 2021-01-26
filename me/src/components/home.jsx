@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import Typed from 'react-typed';
 class Home extends Component {
     render() {
         return (
@@ -7,7 +7,20 @@ class Home extends Component {
                 <section id="hero" className="d-flex flex-column justify-content-center align-items-center">
                     <div className="hero-container" data-aos="fade-in">
                         <h1>Sudhil Raj</h1>
-                        <p>I'm <span className="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
+                        <p>I'm &nbsp;
+                            <Typed
+                                strings={[
+                                    'Developer',
+                                    'Designer',
+                                    'Photographer']}
+                                typeSpeed={100}
+                                backSpeed={50}
+                                backDelay={2000}
+                                loop={true}
+                            >
+                                <span className="typed"></span>
+                            </Typed>
+                        </p>
                     </div>
                 </section>
             </React.Fragment>
