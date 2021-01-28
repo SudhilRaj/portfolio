@@ -8,7 +8,7 @@ class Resume extends Component {
                     <div className="container">
                         <div className="section-title">
                             <h2>Resume</h2>
-                            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                            <p>I believe there is always something to learn, and with software technologies rapid pace, there's always something new! I enjoy collaborating with others and to work in a challenging environment demanding all my skills and efforts to explore and adapt myself in different fields and realize my potential where I get the opportunity for continuous learning.</p>
                         </div>
                         <div className="row">
                             <div className="col-lg-6" data-aos="fade-up">

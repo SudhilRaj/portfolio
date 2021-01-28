@@ -8,40 +8,34 @@ class About extends Component {
                     <div className="container">
                         <div className="section-title">
                             <h2>About</h2>
-                            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                            <p>Meticulous frontend developer with 4 years of experience and passion for responsive website design and a firm believer in the mobile-first approach.</p>
                         </div>
                         <div className="row">
                             <div className="col-lg-4" data-aos="fade-right">
                                 <img src="/images/profile-img.jpg" className="img-fluid" alt="" />
                             </div>
                             <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-                                <h3>UI/UX Designer &amp; Web Developer.</h3>
+                                <h3>Frontend Developer &amp; UI/UX Designer</h3>
                                 <p className="font-italic">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                    magna aliqua.
+                                    Me!
                                 </p>
                                 <div className="row">
                                     <div className="col-lg-6">
                                         <ul>
-                                            <li><i className="icofont-rounded-right"></i> <strong>Birthday:</strong> 1 May 1995</li>
-                                            <li><i className="icofont-rounded-right"></i> <strong>Website:</strong> www.example.com</li>
-                                            <li><i className="icofont-rounded-right"></i> <strong>Phone:</strong> +123 456 7890</li>
-                                            <li><i className="icofont-rounded-right"></i> <strong>City:</strong> City : New York, USA</li>
+                                            <li><i className="icofont-rounded-right"></i> <strong>Birthday:</strong> 29 Aug 1992</li>
+                                            <li><i className="icofont-rounded-right"></i> <strong>Degree:</strong> Bachelor's</li>
+                                            <li><i className="icofont-rounded-right"></i> <strong>City:</strong> Kochi, India</li>
                                         </ul>
                                     </div>
                                     <div className="col-lg-6">
                                         <ul>
-                                            <li><i className="icofont-rounded-right"></i> <strong>Age:</strong> 30</li>
-                                            <li><i className="icofont-rounded-right"></i> <strong>Degree:</strong> Master</li>
-                                            <li><i className="icofont-rounded-right"></i> <strong>PhEmailone:</strong> email@example.com</li>
-                                            <li><i className="icofont-rounded-right"></i> <strong>Freelance:</strong> Available</li>
+                                            <li><i className="icofont-rounded-right"></i> <strong>Phone:</strong> +91 9633 273 137</li>
+                                            <li><i className="icofont-rounded-right"></i> <strong>Email:</strong> sudhilkolathur1@gmail.com</li>
+                                            <li><i className="icofont-rounded-right"></i> <strong>Website:</strong> www.creativeintelligence.me</li>
                                         </ul>
                                     </div>
                                 </div>
-                                <p>
-                                    Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-                                    Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
-                                </p>
+                                <p>Courteous and enthusiastic, I am interested in IT and everything in its orbit.</p>
                             </div>
                         </div>
                     </div>

@@ -95,6 +95,12 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 
+#header .profile p{
+  font-size: 12px;
+  text-align: center;
+  margin: 0;
+}
+
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
@@ -153,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   color: #a8a9b4;
   padding: 12px 15px;
-  margin-bottom: 8px;
+  margin-bottom: 5px;
   transition: 0.3s;
   font-size: 15px;
 }
@@ -391,7 +397,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 50px;
@@ -1079,4 +1085,12 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+#tsparticles{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  position: fixed;
 }

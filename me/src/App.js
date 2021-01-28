@@ -22,7 +22,7 @@ class App extends Component {
 					<Resume></Resume>
 					<Portfolio></Portfolio>
 					<Services></Services>
-					{/* <Contact></Contact> */}
+					<Contact></Contact>
 				</main>
 				<Footer></Footer>
 				<BackToTop></BackToTop>
