@@ -3,18 +3,19 @@ import Typed from 'react-typed';
 import Particles from 'react-particles-js';
 class Home extends Component {
     render() {
+        const { name } = this.props.personalData.primaryInfo;
         return (
             <React.Fragment>
                 <section id="hero" className="d-flex flex-column justify-content-center align-items-center">
                     <div className="hero-container" data-aos="fade-in">
-                        <h1>Sudhil Raj</h1>
+                        <h1>{name}</h1>
                         <p>I'm a&nbsp;
                             <Typed
                                 strings={[
                                     'Developer',
                                     'Designer',
-                                    'Photographer',
                                     'Footballer',
+                                    'Photographer',
                                     'Proud Indian']}
                                 typeSpeed={100}
                                 backSpeed={50}

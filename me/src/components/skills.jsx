@@ -15,39 +15,57 @@ class Skills extends Component {
                                 <div className="progress">
                                     <span className="skill">HTML <i className="val">95%</i></span>
                                     <div className="progress-bar-wrap">
-                                        <div className="progress-bar" role="ProgressBar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style={{ width: '95%' }}></div>
+                                        <div className="progress-bar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style={{ width: '95%' }}></div>
                                     </div>
                                 </div>
                                 <div className="progress">
                                     <span className="skill">CSS <i className="val">90%</i></span>
                                     <div className="progress-bar-wrap">
-                                        <div className="progress-bar" role="ProgressBar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{ width: '90%' }}></div>
+                                        <div className="progress-bar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{ width: '90%' }}></div>
+                                    </div>
+                                </div>
+                                <div className="progress">
+                                    <span className="skill">SCSS <i className="val">90%</i></span>
+                                    <div className="progress-bar-wrap">
+                                        <div className="progress-bar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{ width: '90%' }}></div>
                                     </div>
                                 </div>
                                 <div className="progress">
                                     <span className="skill">JavaScript <i className="val">80%</i></span>
                                     <div className="progress-bar-wrap">
-                                        <div className="progress-bar" role="ProgressBar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{ width: '80%' }}></div>
+                                        <div className="progress-bar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{ width: '80%' }}></div>
+                                    </div>
+                                </div>
+                                <div className="progress">
+                                    <span className="skill">Jquery <i className="val">80%</i></span>
+                                    <div className="progress-bar-wrap">
+                                        <div className="progress-bar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{ width: '80%' }}></div>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                                 <div className="progress">
-                                    <span className="skill">Jquery <i className="val">80%</i></span>
+                                    <span className="skill">React JS <i className="val">60%</i></span>
                                     <div className="progress-bar-wrap">
-                                        <div className="progress-bar" role="ProgressBar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{ width: '80%' }}></div>
+                                        <div className="progress-bar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{ width: '60%' }}></div>
                                     </div>
                                 </div>
                                 <div className="progress">
-                                    <span className="skill">React JS <i className="val">70%</i></span>
+                                    <span className="skill">Bootstrap <i className="val">90%</i></span>
                                     <div className="progress-bar-wrap">
-                                        <div className="progress-bar" role="ProgressBar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{ width: '70%' }}></div>
+                                        <div className="progress-bar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{ width: '90%' }}></div>
+                                    </div>
+                                </div>
+                                <div className="progress">
+                                    <span className="skill">PHP <i className="val">50%</i></span>
+                                    <div className="progress-bar-wrap">
+                                        <div className="progress-bar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style={{ width: '50%' }}></div>
                                     </div>
                                 </div>
                                 <div className="progress">
                                     <span className="skill">Photoshop <i className="val">70%</i></span>
                                     <div className="progress-bar-wrap">
-                                        <div className="progress-bar" role="ProgressBar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{ width: '70%' }}></div>
+                                        <div className="progress-bar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{ width: '70%' }}></div>
                                     </div>
                                 </div>
                             </div>

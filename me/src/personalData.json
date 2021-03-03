@@ -1,0 +1,34 @@
+{
+    "primaryInfo": {
+        "name": "Sudhil Raj",
+        "email": "sudhilkolathur1@gmail.com",
+        "phone": "+91 9633 273 137",
+        "github": "https://github.com/SudhilRaj",
+        "linkedin": "https://www.linkedin.com/in/sudhil-raj-196b5712b/",
+        "twitter": "https://twitter.com/sudhilkolathur",
+        "facebook": "https://www.facebook.com/Sudhilkolathur",
+        "instagram": "https://www.instagram.com/sudhilkolathur/",
+        "web": "www.creativeintelligence.me",
+        "img": "/images/profile-img.jpg",
+        "roles": [
+            {
+                "1": "Front-end Developer",
+                "2": "Designer",
+                "3": "Footballer",
+                "4": "Photographer",
+                "5": "Proud Indian"
+            }
+        ]
+    },
+    "aboutInfo": {
+        "text": "I believe there is always something to learn, and with software technologies rapid pace, there's always something new! I enjoy collaborating with others and to work in a challenging environment demanding all my skills and efforts to explore and adapt myself in different fields and realize my potential where I get the opportunity for continuous learning.",
+        "title": "Frontend Developer & UI/UX Designer",
+        "birth": "29 Aug 1992",
+        "degree": "Bachelor's",
+        "city": "Kochi, Kerala, India",
+        "bottom_text": "Courteous, enthusiastic, and interested in IT and everything in its orbit."
+    },
+    "contactInfo": {
+        "tag_text": "Hello, Drop me a line. Well, perhaps we could meet!"
+    }
+}
