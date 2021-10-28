@@ -1,2 +1,3 @@
 # portfolio
-My Portfolio
+React based single page portfolio website
+(In progress)
